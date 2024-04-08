@@ -2,7 +2,7 @@
 Hi all 👋 I'm Niels, a passionate ux designer and webdeveloper from the Netherlands 🇳🇱
 
 <h3 align="left">Company</h3>
-* [Niels.to](https://niels.to)
+<a href="https://niels.to" target="blank">https://niels.to</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
